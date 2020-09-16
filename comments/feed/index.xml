@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии на сайте priem-metala.pp.ua	</title>
-	<atom:link href="https://pala57.github.io/metalll/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pala57.github.io/metalll/</link>
+	<atom:link href="http://pala57.github.io/metalll/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pala57.github.io/metalll/</link>
 	<description>Просто ще один сайт на WordPress</description>
 	<lastBuildDate>Wed, 16 Sep 2020 08:12:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
